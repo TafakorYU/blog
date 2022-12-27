@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "fa-IR"
-title                    : "عنوان سایت"
+title                    : "وبلاگ انجمن مطالعه و تفکر"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "انجمن مطالعه و تفکر"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -59,8 +59,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
@@ -103,53 +103,53 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "اسمت"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "من آدم **باحالی** هستم!"
-  location         : "زیر آسمون آبی"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+# author:
+#   name             : "اسمت"
+#   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#   bio              : "من آدم **باحالی** هستم!"
+#   location         : "زیر آسمون آبی"
+#   email            :
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       # url: "mailto:your.name@email.com"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       # url: "https://your-website.com"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url: "https://twitter.com/"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url: "https://facebook.com/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       # url: "https://github.com/"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url:
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       # url:
+#     - label: "GitLab"
+#       icon: "fab fa-fw fa-gitlab"
+#       # url:
+#     - label: "Bitbucket"
+#       icon: "fab fa-fw fa-bitbucket"
+#       # url:
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       # url:
 
 
 # Reading Files
@@ -290,3 +290,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
