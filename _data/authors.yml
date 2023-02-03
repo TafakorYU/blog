@@ -1,0 +1,8 @@
+Sude Mirzaei:
+  name: "سوده میرزایی"
+  bio: "عضو انجمن مطالعه و تفکر دانشگاه یزد"
+  avatar: "/assets/images/layout/avatar-sude-mirzaei.jpg"
+  links:
+    label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "SudeMirzaeiii@gmail.com"
