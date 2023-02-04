@@ -1,6 +1,10 @@
 ---
-title: تماس با من
+title: تماس با ما
 permalink: /contact/
 ---
 
-# مشکلاتت رو بامن در میون بگذار
+[ایمیل](mailto:srezas.2017+tb@gmail.com)
+
+[کانال تلگرامی انجمن](https://t.me/tafakor_yazduni)
+
+[مخزن گیت‌هاب وبلاگ](https://github.com/TafakorYU/blog)

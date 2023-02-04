@@ -1426,7 +1426,7 @@ fa: &DEFAULT_FA
   comment_error_msg          : "یه مشکلی پیش اومده. لطفاً مطمئن شو همه فیلد های اجباری پر شدن."
   loading_label              : "درحال بارگذاری"
   search_label_text          :
-  search_placeholder_text    : "دنبال چیز خاصی می‌گردی؟"
+  search_placeholder_text    : "متنتو اینجا وارد کن"
   search_algolia_no_results  : "چیزی پیدا نشد."
   results_found              : "نتایج"
   back_to_top                : "برگرد به بالا"

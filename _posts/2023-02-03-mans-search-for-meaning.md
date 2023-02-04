@@ -90,7 +90,10 @@ tags:
 
 ---
 
-[کانال انجمن مطالعه و تفکر دانشگاه یزد](https://t.me/tafakor_yazduni) | [صوت جلسهٔ ۱](https://t.me/tafakor_yazduni/893) و  [صوت جلسهٔ ۲](https://t.me/tafakor_yazduni/901) انسان در جستجوی معنا
+- [کانال انجمن مطالعه و تفکر دانشگاه یزد](https://t.me/tafakor_yazduni)
+- صوت [جلسهٔ ۱](https://t.me/tafakor_yazduni/893) و  [جلسهٔ ۲](https://t.me/tafakor_yazduni/901) گفتگو در باب کتاب «انسان در جستجوی معنا»
+
+---
 
 
 [^1]: Viktor Frankl, Man's search for meaning, 1946, (Boston: Beacon Press, 2006)

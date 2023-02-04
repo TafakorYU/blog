@@ -3,7 +3,7 @@ Sude Mirzaei:
   bio: "عضو انجمن مطالعه و تفکر دانشگاه یزد"
   avatar: "/assets/images/layout/avatar-sude-mirzaei.jpg"
   links:
-    - label: "Email"
+    - label: "ایمیل"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:SudeMirzaeiii@gmail.com"
       
@@ -12,9 +12,9 @@ SReza S:
   bio: "عضو انجمن مطالعه و تفکر دانشگاه یزد"
   avatar: "/assets/images/layout/avatar-srezas.jpg"
   links:
-    - label: "Email"
+    - label: "ایمیل"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:SRezaS2017+tb@gmail.com"
-    - label: "Weblog"
+    - label: "وبلاگ"
       icon: "fas fa-fw fa-link"
       url: "https://srezasm.github.io"
