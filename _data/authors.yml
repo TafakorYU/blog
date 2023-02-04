@@ -6,3 +6,15 @@ Sude Mirzaei:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:SudeMirzaeiii@gmail.com"
+      
+SReza S:
+  name: "سیدرضا سیدمحسنی"
+  bio: "عضو انجمن مطالعه و تفکر دانشگاه یزد"
+  avatar: "/assets/images/layout/avatar-srezas.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:SRezaS2017+tb@gmail.com"
+    - label: "Weblog"
+      icon: "fas fa-fw fa-link"
+      url: "https://srezasm.github.io"
