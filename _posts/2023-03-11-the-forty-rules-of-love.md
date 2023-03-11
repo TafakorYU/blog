@@ -6,7 +6,7 @@ categories:
   - جلسات کتاب‌خوانی
 tags:
   - خلاصهٔ کتاب
-  - انجمن مطالعه و تفکر
+  - کانون مطالعه و تفکر
   - ملت عشق
 ---
 
@@ -37,7 +37,7 @@ tags:
 
 ---
 
-- [کانال انجمن مطالعه و تفکر دانشگاه یزد](https://t.me/tafakor_yazduni)
+- [کانال کانون مطالعه و تفکر دانشگاه یزد](https://t.me/tafakor_yazduni)
 - صوت [جلسهٔ ۱](https://t.me/tafakor_yazduni/935) و [جلسهٔ ۲](https://t.me/tafakor_yazduni/936) و [جلسهٔ ۳](https://t.me/tafakor_yazduni/943) از گفتگو در باب کتاب «ملت عشق»
 
 ---

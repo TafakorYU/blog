@@ -7,4 +7,4 @@ permalink: /about/
 
 شماهم می‌تونید جهت بارگزاری مطلب در این وبلاگ با آدرس ایمیل [srezas.2017@gmail.com](mailto:srezas.2017+tb@gmail.com) تماس بگیرید.
 
-[کانال تلگرامی انجمن](https://t.me/tafakor_yazduni)
+[کانال تلگرامی کانون](https://t.me/tafakor_yazduni)
